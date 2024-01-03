@@ -1,2 +1,7 @@
-package com.picpay.backend.desafio.model;public class GroupType {
+package com.picpay.backend.desafio.model;
+
+
+public enum GroupType {
+    COMUM(),
+    LOJISTA();
 }
