@@ -71,9 +71,4 @@ class TransactionServiceTest {
 
 
     }
-
-    @Test
-    void createTransaction2(){
-
-    }
 }
